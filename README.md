@@ -1,4 +1,4 @@
-# Awesome Scientific Quest [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Scientific Quests [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome scientific quests.
 
@@ -14,6 +14,7 @@ A curated list of awesome scientific quests.
 ## Biology
   1. Why is life the way it is?
      - [The Vital Question](https://whenihavetime.com/2014/07/08/10-lessons-from-4-years-working-remotely/) - A book by Nick Lane
+     - [Why is life the way it is?](https://www.youtube.com/watch?v=PhPrirmk8F4) Lecture by Dr.Nick Lane at the Royal Society. 
   1. What is Biology's theory of everything?
      - [Biocentrism](http://www.robertlanza.com/biocentrism-how-life-and-consciousness-are-the-keys-to-understanding-the-true-nature-of-the-universe/) A book by Robert Lanza
   1. Quantum Biology
